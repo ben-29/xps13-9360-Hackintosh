@@ -5,7 +5,7 @@
 | 类别                | 详细信息                                                     |
 | ------------------- | ------------------------------------------------------------ |
 | 电脑型号            | DELL XPS 13-9360(2017)                                             |
-| OC:当前系统版本     | macOS Monterey 12.2.1 (21D62)                               |
+| OC:当前系统版本     | macOS Monterey 12.3 (21E230)                               |
 | BIOS                | 2.16.0 (2.6.2之后的版本有bug内存频率变成1867 MHz,但是不影响安装) |
 | 处理器              | Intel Core i7-7560U                                |
 | 内存                | 16 GB(LPDDR3 1867 MHz)                                        |
@@ -15,7 +15,7 @@
 | 声卡                | ALC256 (ALC3246)                                             |
 | 网卡                | 更换为 BCM94360cs2 （原网卡Killer 1535，也可以更换为DW1560/1830/1820A,否则无法驱动网卡，蓝牙也有些问题) |
 
-![](https://user-images.githubusercontent.com/6956444/158176572-4ec44818-f564-4e90-a36f-fa04701ae0e8.png)
+![](https://user-images.githubusercontent.com/6956444/158608770-cbd29ea7-49b5-4bc2-b944-9863f3247e56.png)
 
 ## 详细内容请参考 [xps13-9360-Hackintosh](https://github.com/hoanX/xps13-9360-Hackintosh)
 
